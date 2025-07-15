@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.0.4">
-  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.0.4" pages="3">
+  <diagram name="创建学校" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1158" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -138,6 +138,183 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Oq-peDk7vQUzq3YupqYk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="CdGkemPgdtzfOm2XO2oi-2" target="Oq-peDk7vQUzq3YupqYk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C_7uoRoY5CWhVC4SjV5t" name="校本资源">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-42" target="zzzG_y_qCOUdYyZkeHTf-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-6" value="完成集体备课" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1030" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-7" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;资源上传&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-8" target="zzzG_y_qCOUdYyZkeHTf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-8" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;创建资源目录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-34" target="zzzG_y_qCOUdYyZkeHTf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="470" as="targetPoint" />
+            <mxPoint x="280" y="426" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-12" target="zzzG_y_qCOUdYyZkeHTf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-12" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;资源筛选引用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-14" target="zzzG_y_qCOUdYyZkeHTf-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="560" />
+              <mxPoint x="440" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-14" value="备课编辑" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-21" target="zzzG_y_qCOUdYyZkeHTf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-21" value="集体备课完成&lt;br&gt;&lt;div&gt;资源上传校本&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-22" value="发布" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-22" target="zzzG_y_qCOUdYyZkeHTf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-36" target="zzzG_y_qCOUdYyZkeHTf-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="350" />
+              <mxPoint x="440" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;jumpSize=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-25" target="zzzG_y_qCOUdYyZkeHTf-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-25" target="zzzG_y_qCOUdYyZkeHTf-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-25" value="资源审核" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zzzG_y_qCOUdYyZkeHTf-7" target="zzzG_y_qCOUdYyZkeHTf-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-34" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-36" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="350" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzzG_y_qCOUdYyZkeHTf-42" value="校本资源建设" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vg8Dk6QE5g2-CyOcH0Ax" name="教学教研">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-1" value="开始集体备课" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-6" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-1" target="yAgrdaD9I5sq0i10FVV4-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-59" target="yAgrdaD9I5sq0i10FVV4-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="sourcePoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-8" style="entryX=0.5;entryY=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-57" target="yAgrdaD9I5sq0i10FVV4-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-80" target="yAgrdaD9I5sq0i10FVV4-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-39" value="完成集体备课" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1030" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-57" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;设置组长&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;添加教师&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-59" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;创建教研组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-60" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;设置教学内容&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;创建课程&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;上传资料&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-60" target="yAgrdaD9I5sq0i10FVV4-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-64" target="yAgrdaD9I5sq0i10FVV4-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-64" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;发起集体备课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-67" target="yAgrdaD9I5sq0i10FVV4-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-67" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;填写集备信息&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;选择上传资源&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;添加集备人员&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;设置访问权限&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-69" target="yAgrdaD9I5sq0i10FVV4-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-69" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;分享邀请&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-71" target="yAgrdaD9I5sq0i10FVV4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-71" value="在线协同编辑" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-73" value="多次编辑/评论/批注" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-73" target="yAgrdaD9I5sq0i10FVV4-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-78" value="word版集备报告&lt;div&gt;资源上传校本&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-80" value="发布" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgrdaD9I5sq0i10FVV4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yAgrdaD9I5sq0i10FVV4-80" target="yAgrdaD9I5sq0i10FVV4-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
